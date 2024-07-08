@@ -1,3 +1,4 @@
 [submodule "spire-api-sdk"]
 	path = spire-api/spire-api-sdk
-	url = https://github.com/spiffe/spire-api-sdk.git
+	url = https://github.com/bleggett/spire-api-sdk.git
+    branch = bleggett/delegated-identity-pid
